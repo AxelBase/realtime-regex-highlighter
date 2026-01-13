@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://axelbase.github.io/realtime-regex-highlighter/sitemap.xml
+Sitemap: https://realtime-regex-highlighter.vercel.app/sitemap.xml

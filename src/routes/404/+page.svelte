@@ -8,7 +8,7 @@
   <meta name="description" content="Oops! The page you're looking for doesn't exist. But your regex adventures can still continue!" />
   <meta property="og:title" content="404 – Page Not Found" />
   <meta property="og:description" content="Lost in the regex wilderness? Let's get you back on track." />
-  <meta property="og:url" content="{base}{$page.url.pathname}" />
+  <meta property="og:url" content="{base}/404" />
   <meta property="og:type" content="website" />
   <meta name="robots" content="noindex" />
   <meta name="twitter:card" content="summary_large_image" />

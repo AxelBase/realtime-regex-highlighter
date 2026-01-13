@@ -190,9 +190,6 @@
         <p class="text-muted fst-italic">
           Pro tip: Use <code>Clear All</code> to reset everything, or paste a shared <code>?s=</code> link to load someone else’s pattern instantly.
         </p>
-        <a href="/blog/posts/post5" class="btn btn-primary btn-lg mt-3">
-          Deep Dive: How URL Sharing Works →
-        </a>
       </div>
     </div>
   </div>
@@ -241,7 +238,7 @@
           </h3>
           <div id="q3" class="accordion-collapse collapse" data-bs-parent="#faqAccordion">
             <div class="accordion-body">
-              Absolutely. Nothing is sent to any server. Even shared URLs only contain compressed data in the browser address bar. Read our <a href="/privacy">Privacy Policy</a>.
+              Absolutely. Nothing is sent to any server. Even shared URLs only contain compressed data in the browser address bar. Read our <a href="{base}/privacy">Privacy Policy</a>.
             </div>
           </div>
         </div>
